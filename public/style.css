@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: #ffffff;
+}
+
+#canvas {
+    position: absolute;
+    margin: auto;
+    width: 900px;
+    height: 900px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
